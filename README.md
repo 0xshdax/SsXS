@@ -12,6 +12,7 @@ $ sudo mv sxs /usr/local/bin/
 
 ```
 $ cat target.txt
+
 [...]
 http://testphp.vulnweb.com:80/comment.php?pid=FUZZ
 http://testphp.vulnweb.com:80/disclaimer.php=FUZZ
