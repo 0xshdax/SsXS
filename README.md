@@ -33,5 +33,5 @@ http://testphp.vulnweb.com:80/http:/listproducts.php=FUZZ
 http://testphp.vulnweb.com:80/index.php%20cat=FUZZ
 [...]
 
-$ target-filter.txt | sxs
+$ cat target.txt | sxs
 ```
