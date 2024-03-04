@@ -4,7 +4,7 @@ Simple Scanner XSS and SSTI are inspired by [freq](https://github.com/takshal/fr
 ## Install
 
 ```
-$ go build -o sxs sxs.go
+$ go build -o sxs main.go
 $ sudo mv sxs /usr/local/bin/
 ```
 
